@@ -1,4 +1,4 @@
-//arthimetic operators
+//Arithmetic operators
 // which need two object two perform operations.
 let a =10;
 let b =20;
